@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/boltops-tools/terraspace/tags"
+GH_REPO="https://github.com/boltops-tools/terraspace"
 TOOL_NAME="terraspace"
 TOOL_TEST="terraspace --version"
 
